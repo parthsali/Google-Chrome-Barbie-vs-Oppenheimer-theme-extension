@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Pink Theme",
-	"version": "1.0.0",
-
+	"name": "Barbie VS Oppenheimer Theme Extension",
+	"version": "1.0.2",
+	"description": "Currently only works on Google.com.",
 	"content_scripts": [
 		{
 			"matches": [
