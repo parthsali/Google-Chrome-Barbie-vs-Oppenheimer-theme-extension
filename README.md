@@ -1,6 +1,6 @@
 # Google Chrome Barbie vs Oppenheimer Theme Extension
 
-## Description: This is a Google Chrome extension that changes the theme of the browser.
+## Description: This is a Google Chrome extension that changes the theme of the browser. (Currently works only for google.com)
 
 <hr>
 
