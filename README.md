@@ -6,11 +6,11 @@
 
 ## Oppenheimer Theme:
 
-![ScreenShot](https://github.com/parthsali/Google-Chrome-Color-Picker-Extension/blob/main/Screenshot.jpg)
+![ScreenShot](https://github.com/parthsali/Google-Chrome-Barbie-vs-Oppenheimer-theme-extension/blob/main/Screenshots/Openheimer.png)
 
 ## Barbie Theme:
 
-![ScreenShot](https://github.com/parthsali/Google-Chrome-Color-Picker-Extension/blob/main/Screenshot.jpg)
+![ScreenShot](https://github.com/parthsali/Google-Chrome-Barbie-vs-Oppenheimer-theme-extension/blob/main/Screenshots/Barbie.png)
 
 ## How to use it:
 
