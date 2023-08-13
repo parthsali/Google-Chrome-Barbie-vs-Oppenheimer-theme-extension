@@ -4,9 +4,17 @@
 
 <hr>
 
+## Oppenheimer Theme:
+
+![ScreenShot](https://github.com/parthsali/Google-Chrome-Color-Picker-Extension/blob/main/Screenshot.jpg)
+
+## Barbie Theme:
+
+![ScreenShot](https://github.com/parthsali/Google-Chrome-Color-Picker-Extension/blob/main/Screenshot.jpg)
+
 ## How to use it:
 
-### 1. Download this repository(zip file).
+### 1. Download this folder [Link](https://drive.google.com/drive/folders/1hFy3YPdAhno9pa0jyMQC44o7UCh8NXj7).
 
 ### [2. Go to chrome://extensions](chrome://extensions/)
 
